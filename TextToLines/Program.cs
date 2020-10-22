@@ -5,7 +5,7 @@ using System.Linq;
 
 namespace TextToLines
 {
-    class Program
+    class Program // By Aleksa Vukićević
     {
         static void Main(string[] args)
         {
