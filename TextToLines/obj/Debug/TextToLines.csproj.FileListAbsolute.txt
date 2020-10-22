@@ -1,0 +1,14 @@
+C:\Users\aleks\Desktop\TextToLines\TextToLines\bin\Debug\TextToLines.exe.config
+C:\Users\aleks\Desktop\TextToLines\TextToLines\bin\Debug\TextToLines.exe
+C:\Users\aleks\Desktop\TextToLines\TextToLines\bin\Debug\TextToLines.pdb
+C:\Users\aleks\Desktop\TextToLines\TextToLines\obj\Debug\TextToLines.csprojAssemblyReference.cache
+C:\Users\aleks\Desktop\TextToLines\TextToLines\obj\Debug\TextToLines.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\TextToLines\TextToLines\obj\Debug\TextToLines.exe
+C:\Users\aleks\Desktop\TextToLines\TextToLines\obj\Debug\TextToLines.pdb
+D:\ImportantProjects\VSC#Projects\TextToLines\TextToLines\bin\Debug\TextToLines.exe.config
+D:\ImportantProjects\VSC#Projects\TextToLines\TextToLines\bin\Debug\TextToLines.exe
+D:\ImportantProjects\VSC#Projects\TextToLines\TextToLines\bin\Debug\TextToLines.pdb
+D:\ImportantProjects\VSC#Projects\TextToLines\TextToLines\obj\Debug\TextToLines.csprojAssemblyReference.cache
+D:\ImportantProjects\VSC#Projects\TextToLines\TextToLines\obj\Debug\TextToLines.csproj.CoreCompileInputs.cache
+D:\ImportantProjects\VSC#Projects\TextToLines\TextToLines\obj\Debug\TextToLines.exe
+D:\ImportantProjects\VSC#Projects\TextToLines\TextToLines\obj\Debug\TextToLines.pdb
