@@ -9,6 +9,8 @@ namespace TextToLines
     {
         static void Main(string[] args)
         {
+            Console.Title = "Text to Words                   - By Aleksa Vukićević";
+
             string readPath;
             string writePath;
             char[] seperators = { ' ', ',', '-', '(', ')', '.', '!', '?', ';', '/', '"', ':', '_' }; // chars that seperate the words
